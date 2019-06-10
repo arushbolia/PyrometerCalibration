@@ -1,0 +1,7 @@
+About the Pyrometer:
+Device is USB operated
+WD : 600 mm
+SS : 7.5 mm
+S.No.: E2-001290
+Pyrometer attached with the PyroTemp digital Functional Box
+That is attached to the USB port of Laptop via USB Micro_B cable for data transfer and power supply.
